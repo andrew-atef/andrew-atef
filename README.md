@@ -9,7 +9,7 @@
 </div>  
   
 
-- 🙋‍♂️ All about me is at  [My Resume / CV](https://bit.ly/3tlF4s5)  
+- 🙋‍♂️ All about me is at  [My Resume / CV](https://bit.ly/43B58yH)  
   
 
 - **🧑‍🎓education:**  
