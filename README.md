@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am a young and passionate web developer with a strong focus on **backend development**. My journey in programming began in 2018, and since then, I have been steadily progressing in my skills and knowledge. Initially, I started as a front-end developer, working on small projects to gain a solid foundation in web development.<br><br>Later on, I try learning **Laravel, a powerful PHP framework,** and focused on it, This allowed me to build complex and scalable applications. Since then, I have been develop my skills and actively working on full projects (as freelancer) to gain practical experience as a backend developer.
-<br><br>
+<br>
 **My [cv](https://drive.google.com/file/d/1rDqqLygtQUf4oxTyi7yTE6hOZWRDOe4Z/view?usp=sharing).**
 
 ## 🌐 Socials:
